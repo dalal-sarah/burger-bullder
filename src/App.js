@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from './components/Layout/Layout'
-import BurgerBuilder from './containers/burgerBuillder'
+import BurgerBuilder from './containers/BurgerBuillder'
 
 function App() {
   return (
